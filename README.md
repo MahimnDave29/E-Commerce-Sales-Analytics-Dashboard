@@ -71,9 +71,4 @@ Multi-dimensional filtering capabilities:
 - Geographic sales distribution shows significant regional variations
 - Consistent profitability maintained at ~12.5% margin however there has been decrease of 5.15% in profit margins YoY.
 
-<img width="1311" height="757" alt="image" src="https://github.com/user-attachments/assets/955c927d-232e-416a-af3b-a533d55aa688" />
-
-
-
-
-**Last Updated**: January 2026
+<img width="1326" height="766" alt="image" src="https://github.com/user-attachments/assets/6ef159fe-1ded-43c7-87ea-16b67fea8cc3" />
